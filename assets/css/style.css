@@ -31,7 +31,7 @@ h1, h2 {
 #navbar li {
     float: right;
     list-style-type: none;
-    margin-right: 10px;
+    margin: 10px;
 }
 
 #navbar a {
@@ -49,15 +49,17 @@ h1, h2 {
 
 /* social media style */
 
-.social-media {
+#social-media-head {
     float: right;
     font-size: 120%;
     letter-spacing: 4px;
     line-height: 50px;
 }
 
-.social-media > li {
+#social-media-head li {
     float: left;
     list-style-type: none;
-    margin-right: 30px;
+    margin: 10px;
+    color: #04042f;
 }
+
