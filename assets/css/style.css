@@ -46,3 +46,18 @@ h1, h2 {
 .active {
     color: #724894;
 }
+
+/* social media style */
+
+.social-media {
+    float: right;
+    font-size: 120%;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+.social-media > li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
