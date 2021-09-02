@@ -1,3 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    color: red;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    color: #04042f;
+}
+
+/* Header style */
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#navbar {
+    float: left;
+    font-size: 120%;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+#navbar li {
+    float: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navbar a:hover {
+    color: #724894;
+}
+
+.active {
+    color: #724894;
 }
