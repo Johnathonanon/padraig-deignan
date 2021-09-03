@@ -12,6 +12,23 @@ body {
     color: #04042f;
 }
 
+h1 {
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 300%;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #04042f;
+}
+
+h2 {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #04042f;
+}
+
 /* Header style */
 
 #navbar {
@@ -40,19 +57,53 @@ body {
     color: #724894;
 }
 
-/* social media style */
+/* social media head style */
 
 #social-media-head {
     float: right;
-    font-size: 120%;
+    font-size: 150%;
     letter-spacing: 4px;
     line-height: 50px;
+    color: #04042f;
 }
 
 #social-media-head li {
     float: left;
     list-style-type: none;
     margin: 10px;
-    color: #04042f;
 }
 
+/* heading style */
+
+#main-heading {
+    text-align: center;
+    clear: both;
+    border: 2px solid #724894;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+/* welcome section style */
+
+#image-container {
+    width: 500px;
+    height: 500px;
+    padding: 0;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    MARGIN: 0 auto;
+}
+
+#welcome-image {
+    background: url('../images/204914408_10158932278797626_5898704072843868546_n.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#welcome {
+    text-align: center;
+    margin: 40px;
+    
+}
