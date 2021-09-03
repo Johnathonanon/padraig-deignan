@@ -97,7 +97,7 @@ h2 {
     float: left;
     width: 500px;
     height: 500px;
-    padding: 0 auto;
+    padding-bottom: 40px;
     margin: 40px 0 0 150px;
 }
 
@@ -116,20 +116,33 @@ h2 {
     letter-spacing: 2px;
     padding-top: 220px;
     padding-right: 150px;
+    padding-bottom: 40px;
 }
 
 /* book section style */
 
 #books-heading {
     text-align: center;
-    font-size: 200%;
-    padding: 100px;
+    clear: both;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    border-top: 2px solid #724894;
+    border-bottom: 2px solid #724894;
+    padding: 30px;
+    margin: 40px;
 }
 
 #index-books {
+    clear: both;
     width: 100%;
     height : 400px;
     margin: 40px 0;
+    border: 2px solid black;
+}
+
+#index-books div {
+    width: 30%;
+    height: 100%;
 }
 
 /* footer style */
