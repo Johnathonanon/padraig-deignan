@@ -105,7 +105,7 @@ h2 {
 /* footer style */
 
 footer {
-    height: 80px;
+    height: 100px;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -113,7 +113,11 @@ footer {
     color: white;
     text-align: center;
     background-color: rgba(61, 18, 97, 0.6);
-    line-height: 50px;
+}   
+
+footer a {
+    color: white;
+    text-decoration: none;
 }
 
 #social-media-foot {
@@ -132,3 +136,10 @@ footer {
 #social-media-foot i {
     color: white;
 }
+
+#copyright {
+    float: left;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
