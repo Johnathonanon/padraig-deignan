@@ -76,6 +76,10 @@ h2 {
     color:#04042f;
 }
 
+#social-media-head i:hover {
+    color: #724894
+}
+
 /* heading style */
 
 #main-heading {
@@ -89,17 +93,29 @@ h2 {
 
 /* welcome section style */
 
+#image-container {
+    float: left;
+    width: 500px;
+    height: 500px;
+    padding: 0 auto;
+    margin: 40px 0 0 40px;
+}
+
+#hero-image {
+    background: url('../images/204914408_10158932278797626_5898704072843868546_n.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
 #hero-description {
+    float: right;
+    width: 30%;
     font-size: 100%;
     font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    width: 300px;
-    height: 300px;
-    padding: 10px;
-    bottom: 30px;
-    right: 150px;
-    position: absolute;
+    padding-top: 200px;
+    padding-right: 80px;
 }
 
 /* footer style */
@@ -125,6 +141,7 @@ footer a {
     font-size: 150%;
     letter-spacing: 4px;
     line-height: 50px;
+    padding-top: 20px;
 }
 
 #social-media-foot li {
@@ -135,6 +152,10 @@ footer a {
 
 #social-media-foot i {
     color: white;
+}
+
+#social-media-foot i:hover {
+    color: #04042f;
 }
 
 #copyright {
