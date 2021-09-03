@@ -64,13 +64,16 @@ h2 {
     font-size: 150%;
     letter-spacing: 4px;
     line-height: 50px;
-    color: #04042f;
 }
 
 #social-media-head li {
     float: left;
     list-style-type: none;
     margin: 10px;
+}
+
+#social-media-head i {
+    color:#04042f;
 }
 
 /* heading style */
@@ -86,27 +89,46 @@ h2 {
 
 /* welcome section style */
 
-#image-container {
-    width: 500px;
-    height: 500px;
-    padding: 0;
-    border-style: solid;
-    border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
-    MARGIN: 0 auto;
-}
-
-#welcome-image {
-    background: url('../images/204914408_10158932278797626_5898704072843868546_n.jpg') no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
-}
-
-#welcome {
-    text-align: center;
-    margin: 40px;
-    clear: both;
+#hero-description {
+    font-size: 100%;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    bottom: 30px;
+    right: 150px;
+    position: absolute;
 }
 
 /* footer style */
+
+footer {
+    height: 80px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: rgba(61, 18, 97, 0.6);
+    line-height: 50px;
+}
+
+#social-media-foot {
+    float: right;
+    font-size: 150%;
+    letter-spacing: 4px;
+    line-height: 50px;
+}
+
+#social-media-foot li {
+    float: left;
+    list-style-type: none;
+    margin: 10px;
+}
+
+#social-media-foot i {
+    color: white;
+}
