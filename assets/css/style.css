@@ -78,7 +78,8 @@ h2 {
 #main-heading {
     text-align: center;
     clear: both;
-    border: 2px solid #724894;
+    border-top: 4px solid #724894;
+    border-bottom: 4px solid #724894;
     padding: 20px;
     margin: 20px 0;
 }
@@ -107,3 +108,5 @@ h2 {
     margin: 40px;
     clear: both;
 }
+
+/* footer style */
