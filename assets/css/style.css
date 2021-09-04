@@ -91,7 +91,7 @@ h2 {
     margin: 20px 0;
 }
 
-/* hero section style */
+/* index hero section style */
 
 #image-container {
     float: left;
@@ -119,7 +119,7 @@ h2 {
     padding-bottom: 40px;
 }
 
-/* book section style */
+/* index book section style */
 
 #books-heading {
     text-align: center;
@@ -136,7 +136,6 @@ h2 {
     clear: both;
     width: 100%;
     height : 600px;
-    padding: 20px;
     margin: 40px 0;
 }
 
@@ -144,7 +143,7 @@ h2 {
     display: inline-block;
     width: 30%;
     height: 80%;
-    padding: 10px;
+    padding-left: 30px;
     margin: 5px;
     text-align: center;
 }
@@ -157,6 +156,30 @@ h2 {
     width: 80%;
     height: 80%;
     padding: 30px;
+}
+
+/* books.html style */
+
+
+
+#books-main {
+    clear: both;
+    height: 100%;
+    width: 100%;
+}
+
+#books-main h2 {
+    clear: both;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    color: #04042f;
+    text-align: center;
+}
+
+#books-main div {
+    clear: both;
+    height: 30%;
+    width: 100%;
 }
 
 /* footer style */
