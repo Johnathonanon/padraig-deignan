@@ -203,6 +203,35 @@ h2 {
     line-height: 20px;
 }
 
+#books-purchase {
+    clear: both;
+}
+
+#books-purchase h3 {
+    clear: both;
+    font-family: Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 150%;
+    color: #04042f;
+    text-align: center;
+    padding: 40px;
+}
+
+#books-purchase div {
+    display: inline-block;
+    width: 30%;
+    height: 80%;
+    padding-left: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+#books-purchase img {
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+}
+
 /* footer style */
 
 footer {
