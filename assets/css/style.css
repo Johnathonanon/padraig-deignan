@@ -153,7 +153,7 @@ h2 {
 }
 
 #index-books img {
-    width: 80%;
+    width: 70%;
     height: 80%;
     padding: 30px;
 }
@@ -174,12 +174,33 @@ h2 {
     font-weight: 600;
     color: #04042f;
     text-align: center;
+    padding: 40px;
 }
 
 #books-main div {
     clear: both;
     height: 30%;
     width: 100%;
+    margin-top: 80px;
+}
+
+#books-main img {
+    float: left;
+    margin: 40px;
+    height: 400px;
+    width: 300px;
+    padding-left: 160px;
+}
+
+#books-main p {
+    float: right;
+    margin: 80px 180px 40px 40px;
+    height: 200px;
+    width: 400px;
+    padding: 60px 100px 20px 20px;
+    text-align: center;
+    font-size: 110%;
+    line-height: 20px;
 }
 
 /* footer style */
