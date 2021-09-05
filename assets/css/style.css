@@ -102,9 +102,9 @@ h2 {
     margin: 40px 0 0 150px;
 }
 
-#hero-image {
-    background: url('../images/204914408_10158932278797626_5898704072843868546_n.jpg') no-repeat center center;
+#hero-image img {
     height: 100%;
+    width: 100%;
     border-radius: 50%;
 }
 
