@@ -89,7 +89,7 @@ h2 {
     border-top: 4px solid #724894;
     border-bottom: 4px solid #724894;
     padding: 20px;
-    margin: 20px 0;
+    margin: 20px;
 }
 
 /* index hero section style */
@@ -160,8 +160,6 @@ h2 {
 }
 
 /* about.html style */
-
-
 
 #about-me h2 {
     text-align: center;
@@ -267,6 +265,22 @@ h2 {
     clear: both;
     text-align: center;
     margin: 80px;
+}
+
+/* contact.html style */
+
+#contact-main {
+    background-image: url(../images/pexels-cottonbro-7610759.jpg);
+    filter: blur(4px);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+#contact-form div {
+    width: 400px;
+    height: 300px;
+    background-color: rgba(61, 18, 97, 0.6);
 }
 
 /* footer style */
