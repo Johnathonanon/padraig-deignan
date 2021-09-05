@@ -158,9 +158,20 @@ h2 {
     padding: 30px;
 }
 
+/* about.html style */
+
+
+
+#about-me h2 {
+    text-align: center;
+    clear: both;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    padding: 40px;
+    margin: 40px;
+}
+
 /* books.html style */
-
-
 
 #books-main {
     clear: both;
