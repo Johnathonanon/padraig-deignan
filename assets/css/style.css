@@ -54,8 +54,9 @@ h2 {
 }
 
 .active {
-    color: #724894;
+    border-bottom: 3px solid #3D1261;
 }
+
 
 /* social media head style */
 
@@ -250,6 +251,22 @@ h2 {
     font-weight: 600;
     color: #04042f;
     text-align: center;
+}
+
+/* media.html style */
+
+#media-main div {
+    clear: both;
+    text-align: center;
+    margin: 80px;
+}
+
+#media-main h3 {
+    font-family: Roboto, sans-serif;
+    font-size: 160%;
+    clear: both;
+    text-align: center;
+    margin: 80px;
 }
 
 /* footer style */
