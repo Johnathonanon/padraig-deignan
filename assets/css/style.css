@@ -161,6 +161,11 @@ h2 {
 
 /* about.html style */
 
+#about-me {
+    width: 80%;
+    margin: 0 10%;
+}
+
 #about-me h2 {
     text-align: center;
     clear: both;
@@ -169,6 +174,28 @@ h2 {
     padding: 40px;
     margin: 40px;
 }
+
+#about-me div{
+    clear: both;
+    height: 400px;
+    width: 50%;
+}
+
+#about-me img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.about-pic {
+    float: left;
+}
+
+.about-text {
+    float: right;
+}
+
 
 /* books.html style */
 
@@ -329,7 +356,7 @@ h2 {
     display: block;
 }
 
-.join-button:hover {
+#submit-button:hover {
     background-color: #04042f;
     color: white;
 }
