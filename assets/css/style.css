@@ -188,12 +188,19 @@ h2 {
     border-radius: 5%;
 }
 
+#about-me p {
+    text-align: center;
+    font-size: 120%;
+    margin: 30px auto;
+    line-height: 30px;
+}
+
 .about-pic {
-    float: left;
+    float: right;
 }
 
 .about-text {
-    float: right;
+    float: left;
 }
 
 
