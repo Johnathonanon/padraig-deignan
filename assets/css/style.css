@@ -311,14 +311,14 @@ h2 {
 }
 
 .text-input:hover {
-    border-color: #f16c6b;
+    border-color: #04042f;
 }
 
 #message-box {
     height: 160px;
 }
 
-.join-button {
+#submit-button {
     margin: 20px;
     border-radius: 2px;
     padding: 10px 20px;
@@ -332,6 +332,39 @@ h2 {
 .join-button:hover {
     background-color: #04042f;
     color: white;
+}
+
+/* thank you page style */
+
+#thank-you {
+    background-image: url(../images/elle-leontiev-FtZf5yiLWs4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    margin-bottom: 20px;
+}
+
+#thank-you div {
+    position: absolute;
+    width: 800px;
+    height: 400px;
+    background-color: rgba(61, 18, 97, 0.5);
+    border-radius: 2%;
+    margin-left: 360px;
+    margin-top: 200px;
+}
+
+#thank-you h2 {
+    text-align: center;
+    color: white;
+    font-size: 160%;
+    font-weight: 600;
+    padding-top: 170px;
+}
+
+#thank-you i {
+    color: white;
+    font-size: 120%;
 }
 
 /* footer style */
