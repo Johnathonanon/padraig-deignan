@@ -270,17 +270,68 @@ h2 {
 /* contact.html style */
 
 #contact-main {
-    background-image: url(../images/pexels-cottonbro-7610759.jpg);
-    filter: blur(4px);
+    background-image: url(../images/elle-leontiev-FtZf5yiLWs4-unsplash.jpg);
     background-size: cover;
     background-position: center;
     height: 800px;
+    margin-bottom: 20px;
 }
 
-#contact-form div {
-    width: 400px;
-    height: 300px;
-    background-color: rgba(61, 18, 97, 0.6);
+#contact-form {
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    background-color: rgba(61, 18, 97, 0.5);
+    margin: 100px;
+    border-radius: 2%;
+}
+
+#contact-form > h2 {
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    color: white;
+    margin: 20px;
+}
+
+#contact-form label {
+    color: white;
+    padding: 10px;
+}
+
+.text-input {
+    clear: both;
+    background: transparent;
+    color: white;
+    width: 90%;
+    height: 25px;
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #f16c6b;
+}
+
+#message-box {
+    height: 160px;
+}
+
+.join-button {
+    margin: 20px;
+    border-radius: 2px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 120%;
+    background-color: white;
+    color: #04042f;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #04042f;
+    color: white;
 }
 
 /* footer style */
