@@ -484,10 +484,8 @@ footer a {
         padding-left: 25%;
     }
 
-    .about-me > div {
-        clear: both;
-        width: 60%;
-        margin: 20px 20%;
+    .about-me div {
+        display: inline-block;
     }
 
     #books-main div {
@@ -524,6 +522,28 @@ footer a {
 
 @media screen and (max-width: 800px) {
 
+    #navbar {
+        clear: both;
+        width: 80%;
+        margin: 0 10%;
+    }
 
+    #navbar li {
+        text-align: center;
+        width: 20%;
+        margin: 0;
+    }
+
+    #social-media-head {
+        clear: both;
+        width: 80%;
+        margin: 0 10%;
+    }
+
+    #social-media-head li {
+        text-align: center;
+        width: 25%;
+        margin: 0;
+    }
 
 }
