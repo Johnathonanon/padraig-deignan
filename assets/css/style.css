@@ -177,7 +177,7 @@ h2 {
 
 .about-me div {
     clear: both;
-    height: 400px;
+    height: 10%;
     width: 50%;
     margin-bottom: 0;
 }
@@ -283,16 +283,16 @@ h2 {
 #books-purchase img {
     width: 200px;
     height: 300px;
-    padding-left: 125px;
 }
 
 #books-purchase a {
-    clear: both;
+    display: block;
     text-decoration: none;
     font-family: Montserrat, sans-serif;
     font-weight: 600;
     color: #04042f;
     text-align: center;
+    margin: 20px auto;
 }
 
 /* media.html style */
@@ -464,15 +464,15 @@ footer a {
     #image-container {
         clear: both;
         width: 70%;
-        height: 800px;
+        height: auto;
         margin: 20px 15%;
     }
 
     #hero-description {
         text-align: center;
         clear: both;
-        width: 50%;
-        margin: 10% 25%;
+        width: 80%;
+        margin: 10%;
         padding: 0;
     }
 
@@ -484,8 +484,19 @@ footer a {
         padding-left: 25%;
     }
 
+    .about-me {
+        width: 100%;
+        margin: 0;
+    }
+
     .about-me div {
-        display: inline-block;
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    .about-me img {
+        width: 50%;
+        margin: 0 25%;
     }
 
     #books-main div {
@@ -504,8 +515,8 @@ footer a {
 
     #books-main p {
         clear: both;
-        width: 50%;
-        margin: 25%;
+        width: 90%;
+        margin: 20px 5%;
         padding: 0;
     }
 
@@ -544,6 +555,16 @@ footer a {
         text-align: center;
         width: 25%;
         margin: 0;
+    }
+
+    #media-main div {
+        width: 100%;
+        margin: 0;
+    }
+
+    #media-main h3 {
+        width: 90%;
+        margin: 20px auto;
     }
 
 }
