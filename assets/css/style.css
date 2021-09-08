@@ -183,10 +183,10 @@ h2 {
 }
 
 .about-me img {
+    object-fit: cover;
     height: 100%;
     width: 100%;
-    object-fit: cover;
-    border-radius: 5%;
+    border-radius: 8%;
 }
 
 #credit {
@@ -486,8 +486,8 @@ footer a {
 
     .about-me > div {
         clear: both;
-        width: 90%;
-        margin: 5%;
+        width: 60%;
+        margin: 20px 20%;
     }
 
     #books-main div {
@@ -499,6 +499,7 @@ footer a {
     #books-main img {
         clear: both;
         width: 40%;
+        height: auto;
         margin: 20px 30%;
         padding: 0;
     }
@@ -516,5 +517,13 @@ footer a {
         margin: 0 20%;
         padding: 0;
     }
+
+}
+
+/* for smaller screen sizes 800px and down */
+
+@media screen and (max-width: 800px) {
+
+
 
 }
