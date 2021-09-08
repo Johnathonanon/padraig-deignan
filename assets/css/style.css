@@ -161,12 +161,12 @@ h2 {
 
 /* about.html style */
 
-#about-me {
+.about-me {
     width: 80%;
     margin: 0 10%;
 }
 
-#about-me h2 {
+.about-me h2 {
     text-align: center;
     clear: both;
     font-family: Montserrat, sans-serif;
@@ -175,20 +175,31 @@ h2 {
     margin: 40px;
 }
 
-#about-me div{
+.about-me div{
     clear: both;
     height: 400px;
     width: 50%;
+    margin-bottom: 0;
 }
 
-#about-me img {
+.about-me img {
     height: 100%;
     width: 100%;
     object-fit: cover;
     border-radius: 5%;
 }
 
-#about-me p {
+#credit {
+    font-size: 50%;
+    margin-top: 0;
+}
+
+#credit i {
+    text-decoration: none;
+    color: #04042f;
+}
+
+.about-me p {
     text-align: center;
     font-size: 120%;
     margin: 30px auto;
@@ -202,7 +213,6 @@ h2 {
 .about-text {
     float: left;
 }
-
 
 /* books.html style */
 
