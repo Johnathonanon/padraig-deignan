@@ -598,9 +598,9 @@ footer a {
 
 }
 
-/* for mobile screen sizes 500px and down */
+/* for mobile screen sizes 600px and down */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 
     html {
         width: 100%;
