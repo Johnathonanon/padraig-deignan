@@ -85,13 +85,22 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+The site has been consistently tested throughout its development. Any time a new feature was introduced or style change made, this was tested using chrome developer tools. Any unwanted behaviour was then fixed before moving on.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+All html elements serve their intended purpose with no bugs found at time of submission. All styles work as intended and add to the overall user experience. The site has been stringently tested on a large number of different browsers and screen sizes both using emulators on dev tools as well as physical mobile devices and tablets. 
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+All links, both internal and external, have been checked and confirmed working on a multitude of browsers including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. 
+
+Any forms and videos act as intended. 
+
+The site works as intented on all tested platforms.
+
+One of the largest challenges faced when implementing media queries for smaller device sizes was that certain elements had been given size values in pixels at the start of development. This caused an unnecessary amount of time to be spent fixed broken style through the development process, however it also resulted in a better site and a greater understanding of the priciples behind html and css.
+
+Efforts were made beginning, during, and at the end of development to optimise the site as best as possible. This included colour palette generators and contrast checkers for accessibility, the addition of alt attributes where necessary, reduction of image file sizes to help load times, and search engine optimisation.
+
+![picture of dev tools lighthouse snip](readme-images/lighthousesnip.PNG)
 
 ### Validator Testing
 
