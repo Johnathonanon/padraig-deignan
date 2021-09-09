@@ -544,7 +544,7 @@ footer a {
     #contact-main {
         height: 1800px;
     }
-    
+
 }
 
 /* for smaller screen sizes 800px and down */
@@ -641,6 +641,10 @@ footer a {
 
     #social-media-head {
         margin-top: 5px;
+    }
+
+    .about-text > p {
+        font-size: 80%;
     }
 
     iframe {

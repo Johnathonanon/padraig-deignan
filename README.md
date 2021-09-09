@@ -1,10 +1,12 @@
 # Padraig Deignan
 
-This is a site that highlights a very talented and locally known in the heart of Sligo, Ireland. Padraig Deignan is a PhD graduate of NUI Maynooth and also a graduate of NUI Galway where he was awarded a B.A., M.A., a Higher Diploma in Education and a Fellowship of the National University of Ireland. He has worked as a teacher for a number of years. Along with the publication of numerous articles he published a book ‘The Protestant Community in Sligo, 1914-49’ in 2010. 
+This is a site that highlights a very talented and locally known historian/author in the heart of Sligo, Ireland. Padraig Deignan is a PhD graduate of NUI Maynooth and also a graduate of NUI Galway where he was awarded a B.A., M.A., a Higher Diploma in Education and a Fellowship of the National University of Ireland. He has worked as a teacher for a number of years. Along with the publication of numerous articles he published a book ‘The Protestant Community in Sligo, 1914-49’ in 2010, 'Land and People in Nineteenth Century Sligo: From Union to Local Government' in 2015, and 'Sligo in the Eighteenth Century' in 2021. 
 
+This site provides a platform for people, both nationally and internationally, who are interested in Irish History, wish to possibly connect with Padraig Deignan, wish to purchase one of his books, or possibly wish to collaborate with him. It amalgamates information from several different sources and provides links to these so users can read about the man himself, find out a little bit about his books, and get in contact if they wish.
 
+The live link can be found here - https://johnathonanon.github.io/padraig-deignan/about.html
 
-INSERT AM I RESPONSIVE SCREEN SHOT SHOWING DIFFERENT PLATFORMS WITH WEBSITE
+![Image](readme-images/amiresponsivesnip.PNG)
 
 ## Features
 
@@ -20,17 +22,21 @@ INSERT AM I RESPONSIVE SCREEN SHOT SHOWING DIFFERENT PLATFORMS WITH WEBSITE
 
   - This will allow users to navigate between the pages on the website without needing to use the "back" button for a more user friendly experience.
 
-- **Social Media Icons **
+  - The current page appears with a line underneath, allowing the user to quickly and easily understand what page they are currently viewing.
 
-  - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan.
+  - The nav bar is coded to become a hamburger icon with a dropdown menu at < 600px screen width, which again makes for a friendlier user experience.
+
+- **Social Media Icons**
+
+  - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan. These contain links to the home pages of the included sites for those social media sites Padraig is not currently a member of.
 
 - **The Landing Page Banner**
 
-  - This introduces the user to what the website is. This is a simple visual representation that the website is about Padraig Deignan and who he is (Author and Historian).
+  - This introduces the user to what the website is about. This is a simple visual representation that the website is about Padraig Deignan and who he is (Author and Historian).
 
 - **About**
 
-  - The about section will allow the user to read a short section about the upbringing of Padraig Deignan, and how he became who is today. This section will allow the user to get a more in-depth perception of who Padraig Deignan is as an Author/Historian. 
+  - The about section will allow the user to read a short section about the background of Padraig Deignan, and how he became who is today. This section will allow the user to get a more in-depth perception of who Padraig Deignan is as an Author/Historian. It will allow the user to develop a connection with the subject of the site.
 
 - **Books**
 
@@ -84,7 +90,7 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+The live link can be found here - https://johnathonanon.github.io/padraig-deignan/about.html
 
 ## Credits
 
