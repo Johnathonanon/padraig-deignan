@@ -541,6 +541,10 @@ footer a {
         padding: 0;
     }
 
+    #contact-main {
+        height: 1200px;
+    }
+    
 }
 
 /* for smaller screen sizes 800px and down */
