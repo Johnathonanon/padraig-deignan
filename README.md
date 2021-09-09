@@ -40,11 +40,11 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 - **Books**
 
-  - This section will allow the user to purchase books and also view the books Padraig Deignan has written. They will have brief sections on each book describing the contents.
+  - This section will allow the user to purchase books via included links and also view the books Padraig Deignan has written. They will have brief sections on each book describing the contents.
 
 - **Media**
 
-  - In this section the user can view a video featuring Padraig Deignan. 
+  - In this section the user can view videos featuring Padraig Deignan.
 
 - **Contact**
 
