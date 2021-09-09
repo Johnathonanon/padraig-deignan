@@ -331,7 +331,7 @@ h2 {
     background-size: cover;
     background-position: center;
     height: 800px;
-    margin-bottom: 0 auto;
+    margin: 0 auto;
 }
 
 #contact-form {
@@ -399,7 +399,7 @@ h2 {
     background-position: center;
     height: 800px;
     width: 100%;
-    margin-bottom: 0 auto;
+    margin: 0 auto;
 }
 
 #thanks-div {
