@@ -36,31 +36,48 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
   - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan. These contain links to the home pages of the included sites for those social media sites Padraig is not currently a member of. At < 600px these center under the navbar for a neater user experience. The icons change colour when hovered on.
 
-- **The Landing Page Banner**
+- **The Index Page**
 
-  - This introduces the user to what the website is about. This is a simple visual representation that the website is about Padraig Deignan and who he is (Author and Historian).
+  - This introduces the user to what the website is about. This is a simple visual representation that the website is about Padraig Deignan and who he is (Author and Historian). A books section has a visual representation of his work, and clicking on the images redirects to the books.html section of the relevant title.
+
+  ![picture of hero image and description](readme-images/herosnip.PNG)
 
 - **About**
 
   - The about section will allow the user to read a short section about the background of Padraig Deignan, and how he became who is today. This section will allow the user to get a more in-depth perception of who Padraig Deignan is as an Author/Historian. It will allow the user to develop a connection with the subject of the site.
 
+  ![picture of about section](readme-images/aboutsnip.PNG)
+
 - **Books**
 
   - This section will allow the user to purchase books via included links and also view the books Padraig Deignan has written. They will have brief sections on each book describing the contents.
+
+  ![picture of main books section](readme-images/booksnip1.PNG)
+
+  ![picture of books purchase section](readme-images/booksnip2.PNG)
 
 - **Media**
 
   - In this section the user can view videos featuring Padraig Deignan.
 
+  ![picture of media section](readme-images/mediasnip.PNG)
+
 - **Contact**
 
-  - This section contains a form which will allow the user to contact Padraig by email. All fields are required, meaning the from has to filled correctly in order to be submitted.
+  - This section contains a form which will allow the user to contact Padraig by email. All fields are required, meaning the from has to filled correctly in order to be submitted. Once all fields are entered and submit button is pressed the user is redirected to the thanks page.
+
+  ![picture of contact form](readme-images/formname.PNG)
+  ![picture of contact form](readme-images/formemail1.PNG)
+  ![picture of contact form](readme-images/formemail2.PNG)
+  ![picture of contact form](readme-images/formmessage.PNG)
+  ![picture of thanks message](readme-images/thanksmessage.PNG)
 
 - **Footer**
 
-  - The footer is has a copyright of the owner and the year it was published. The right hand side of the footer will contain icons that are responsive/interactive that will bring the user to Padraig Degnan's Social media outlets. 
+  - The footer is has a copyright of the owner and the year it was published. The right hand side of the footer will contain icons that are responsive/interactive that will bring the user to Padraig Degnan's Social media outlets. These icons are removed at lower screen sizes to make the site neater for the user.
 
-
+  ![picture of footer](readme-images/foot1.PNG)
+  ![picture of footer at < 800px](readme-images/foot2.PNG)
 
 ### Features Left to Implement
 
