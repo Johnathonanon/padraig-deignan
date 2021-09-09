@@ -24,11 +24,17 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
   - The current page appears with a line underneath, allowing the user to quickly and easily understand what page they are currently viewing.
 
-  - The nav bar is coded to become a hamburger icon with a dropdown menu at < 600px screen width, which again makes for a friendlier user experience.
+  ![picture of navbar](readme-images/navbarsnip.PNG)
+
+  - The nav bar is coded to center above the social media icons at < 800px and become a hamburger icon with a dropdown menu at < 600px screen width, which again makes for a friendlier user experience.
+
+  ![picture of navbar at < 800px](readme-images/navbar800px.PNG)
+
+  ![picture of navbar at < 600px](readme-images/hamburger600px.PNG)
 
 - **Social Media Icons**
 
-  - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan. These contain links to the home pages of the included sites for those social media sites Padraig is not currently a member of.
+  - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan. These contain links to the home pages of the included sites for those social media sites Padraig is not currently a member of. At < 600px these center under the navbar for a neater user experience. The icons change colour when hovered on.
 
 - **The Landing Page Banner**
 
@@ -48,7 +54,7 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 - **Contact**
 
-  - This section will give the user the opportunity to sign up to an email subscription to sign up for any news from Padraig Deignan such as book signing and seminars and also will have information relating to how to contact Padraig Deignan.
+  - This section contains a form which will allow the user to contact Padraig by email. All fields are required, meaning the from has to filled correctly in order to be submitted.
 
 - **Footer**
 
@@ -58,7 +64,7 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 ### Features Left to Implement
 
-- Another feature idea
+- As of now the contact form only brings the user to the thanks.html file. In the future this form should allow the user to send Padraig a message via email.
 
 ## Testing
 
