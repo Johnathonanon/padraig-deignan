@@ -34,7 +34,7 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 - **Social Media Icons**
 
-  - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan. These contain links to the home pages of the included sites for those social media sites Padraig is not currently a member of. At < 600px these center under the navbar for a neater user experience. The icons change colour when hovered on.
+  - Responsive social media icons for the purpose of the user to connect with the Author/Historian in order to get in touch, or learn more about Padraig Deignan. These contain links to the home pages of the included sites for those social media sites Padraig is not currently a member of. All sites open in a new tab. At < 600px these center under the navbar for a neater user experience. The icons change colour when hovered on.
 
 - **The Index Page**
 
