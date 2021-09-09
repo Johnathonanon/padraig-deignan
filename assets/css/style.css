@@ -502,7 +502,7 @@ footer a {
     #books-main div {
         clear: both;
         width: 90%;
-        margin: 5%;
+        margin: 0 5%;
     }
 
     #books-main img {
@@ -516,6 +516,7 @@ footer a {
     #books-main p {
         clear: both;
         width: 90%;
+        height: auto;
         margin: 20px 5%;
         padding: 0;
     }
@@ -566,5 +567,20 @@ footer a {
         width: 90%;
         margin: 20px auto;
     }
+
+    #contact-form {
+        width: 80%;
+        height: auto;
+        margin: 10%;
+    }
+
+    .text-input {
+        width: 90%;
+        margin: 5%;
+    }
+
+    #social-media-foot {
+        display: none;
+    } 
 
 }
