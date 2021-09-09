@@ -4,9 +4,9 @@ This is a site that highlights a very talented and locally known historian/autho
 
 This site provides a platform for people, both nationally and internationally, who are interested in Irish History, wish to possibly connect with Padraig Deignan, wish to purchase one of his books, or possibly wish to collaborate with him. It amalgamates information from several different sources and provides links to these so users can read about the man himself, find out a little bit about his books, and get in contact if they wish.
 
-The live link can be found here - https://johnathonanon.github.io/padraig-deignan/about.html
+The live link can be found here - https://johnathonanon.github.io/padraig-deignan/index.html
 
-![Image](readme-images/amiresponsivesnip.PNG)
+![Image](readme-images/amiresponsivesnip.png)
 
 ## Features
 
