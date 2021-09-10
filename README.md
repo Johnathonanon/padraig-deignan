@@ -30,7 +30,7 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
   ![picture of navbar at < 800px](readme-images/navbar800px.PNG)
 
-  ![picture of navbar at < 600px](readme-images/hamburger600px.PNG)
+  ![picture of navbar at < 600px](readme-images/hamburger600px2.PNG)
 
 - **Social Media Icons**
 
@@ -83,14 +83,20 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 - As of now the contact form only brings the user to the thanks.html file. In the future this form should allow the user to send Padraig a message via email.
 
+- My mentor mentioned the about section appeared "wordy", especially on mobile devices, and I agree with this assertion. Despite this, the purpose of the about section is to impart information about the site subject and so I feel it still performs its intended function and remains succinct enough as to not cause users to have a poor experience. However, it is my intention to potentially implement a "read more" button in the future so as to add to the user experience aspect of the site.
+
 ## Testing
 
 
 The site has been consistently tested throughout its development. Any time a new feature was introduced or style change made, this was tested using chrome developer tools.
 
-All html elements serve their intended purpose at time of submission. All styles work as intended and add to the overall user experience. The site has been stringently tested on a large number of different browsers and screen sizes both using emulators on dev tools as well as physical mobile devices and tablets. 
+All html elements serve their intended purpose at time of submission. All styles work as intended and add to the overall user experience. The site has been stringently tested on a large number of different browsers and screen sizes both using emulators on dev tools as well as physical mobile devices and tablets. Both the site subject and others viewed the site on a number of personal platforms, android and ios, and found the site to work as intended on different screen sizes and browsers.
 
-The footer on the Contact page had white space underneath it. The only way with my current knowledge to resolve this issue was to increase the image size on the contact page in order to eliminate the white space. 
+The footer on the Contact page had white space underneath it at < 1350px. The only way with my current knowledge and given time constraints to resolve this issue was to increase the image size on the contact page in order to eliminate the white space. This solution is not ideal and I intend to resolve it but the site still functions and appears as intended.
+
+The hamburger menu at < 600px displayed in the incorrect direction most of its implementation, however comments from the site subject as well as others who viewed the site on a mobile device led me to fix this pre-submission.
+
+![picture of bugged hamburger menu](readme-images/hamburger600px.PNG)
 
 All links, both internal and external, have been checked and confirmed working on a multitude of browsers including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. 
 
@@ -98,9 +104,13 @@ Any forms and videos act as intended.
 
 The site works as intented on all tested platforms.
 
-One of the largest challenges faced when implementing media queries for smaller device sizes was that certain elements had been given size values in pixels at the start of development. This caused an unnecessary amount of time to be spent fixed broken style through the development process, however it also resulted in a better site and a greater understanding of the priciples behind html and css.
+One of the largest challenges faced when implementing media queries for smaller device sizes was that certain elements had been given size values in pixels at the start of development. This caused an unnecessary amount of time to be spent fixing broken style through the development process, however it also resulted in a better site and a greater understanding of the priciples behind html and css.
 
 Efforts were made beginning, during, and at the end of development to optimise the site as best as possible. This included colour palette generators and contrast checkers for accessibility, the addition of alt attributes where necessary, reduction of image file sizes to help load times, and search engine optimisation.
+
+A colour palette was generated and the chosen colours ran through a contrast checker to ensure a pleasant experience and large degree of accessibility for the site. 
+
+The site subject - Padraig Deignan - was kept informed of all design and content choices as they were made as well as contributing much of both. He was sent screenshots and videos of the site in order to provide feedback on site functions and navigation elements. During the development process he requested several amendments which were immediately implemented and reapproved by him.
 
 ![picture of dev tools lighthouse snip](readme-images/lighthousesnip.PNG)
 
@@ -113,16 +123,14 @@ Efforts were made beginning, during, and at the end of development to optimise t
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+- As mentioned above the contact page displayed white space underneath the footer at < 1350px and I "fixed" this by increasing the height of the background image. I am aware that this is not ideal but given time constraints I was concerned that my attempts to rectify this may cause the page to break at other screen sizes and compound the issue, resulting in me getting bogged down in troublshooting and wasting time. The site still functions as intended and this page still adheres to the intented style and user experience.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
   - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - From the source section drop-down menu, select the Main Branch
+  - Once the Main Branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://johnathonanon.github.io/padraig-deignan/about.html
 
@@ -151,19 +159,15 @@ https://code-institute-org.github.io/love-running-2.0/signup.html (Used this cod
 
 ### Content
 
-- 
-- 
+- All written content and photos were approved by Padraig Deignan himself. Padraig Deignan supplied the photos used on the website of himself from his personal computer harddrive.
 - The icons in the header were taken from [Font Awesome](https://fontawesome.com/)
-- 
 - The photos used for the books were taken from Pagraig Deignans Facebook [with permission and approval] (https://www.facebook.com/padraig.deignan)
-- All content and photos were approved by Padraig Deignan himself. Padraig Deignan supplied the photos used on the website of himself from his personal computer harddrive. 
 
 ### Media
 
 - The photo used on contact page are from this open source (https://unsplash.com/)
 - The color pallette was generated using this source (Adobe Color - https://color.adobe.com/)
-- Contrast Checker was used to help with user experience (WebAim Contrast Checker - https://webaim.org/resources/contrastchecker/
-)
+- Contrast Checker was used to help with user experience (WebAim Contrast Checker - https://webaim.org/resources/contrastchecker/)
 - Fonts were derived from (Google Fonts - https://fonts.google.com/)
-- 
+- Videos on media section were embedded using a youtube embed link
 
