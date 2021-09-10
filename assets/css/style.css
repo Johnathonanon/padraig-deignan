@@ -31,6 +31,8 @@ h2 {
 
 /* Header style */
 
+/* code for label and input taken from https://www.youtube.com/watch?v=xMTs8tAapnQ */
+
 .toggle-label {
     margin: 0 40px 0 0;
     font-size: 25px;
@@ -326,6 +328,8 @@ h2 {
 
 /* contact.html style */
 
+/* inspiration taken from https://code-institute-org.github.io/love-running-2.0/signup.html */
+
 #contact-main {
     background-image: url(../images/elle-leontiev-FtZf5yiLWs4-unsplash.jpg);
     background-size: cover;
@@ -432,7 +436,7 @@ footer {
     width: 100%;
     color: white;
     text-align: center;
-    background-color: rgba(61, 18, 97, 0.6);
+    background-color: rgba(61, 18, 97, 0.5);
 }
 
 footer a {
@@ -616,6 +620,8 @@ footer a {
         width: 100%;
         height: 100%;
     }
+
+    /* code for label and input taken from https://www.youtube.com/watch?v=xMTs8tAapnQ */
 
     .toggle-label {
         display: block;

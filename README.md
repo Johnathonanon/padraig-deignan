@@ -2,6 +2,8 @@
 
 This is a site that highlights a very talented and locally known historian/author in the heart of Sligo, Ireland. Padraig Deignan is a PhD graduate of NUI Maynooth and also a graduate of NUI Galway where he was awarded a B.A., M.A., a Higher Diploma in Education and a Fellowship of the National University of Ireland. He has worked as a teacher for a number of years. Along with the publication of numerous articles he published a book ‘The Protestant Community in Sligo, 1914-49’ in 2010, 'Land and People in Nineteenth Century Sligo: From Union to Local Government' in 2015, and 'Sligo in the Eighteenth Century' in 2021. 
 
+I decided to base this site on Padraig Deignan because of the impact he had on me as a teacher and mentor. I first met him over ten years ago, just after he had published his first book. In the intervening years we have kept in contact and I have followed his career and subsequent publications. I approached him to base this site on him because I had noticed that despite him being well known in the local area, his online presence was lacking. I felt this site would hopefully be a benefit to him, and allow a greater audience to learn about and possibly purchase his works. As well as providing a way to contact him and links to his social media.
+
 This site provides a platform for people, both nationally and internationally, who are interested in Irish History, wish to possibly connect with Padraig Deignan, wish to purchase one of his books, or possibly wish to collaborate with him. It amalgamates information from several different sources and provides links to these so users can read about the man himself, find out a little bit about his books, and get in contact if they wish.
 
 The live link can be found here - https://johnathonanon.github.io/padraig-deignan/index.html
@@ -109,6 +111,10 @@ One of the largest challenges faced when implementing media queries for smaller 
 Efforts were made beginning, during, and at the end of development to optimise the site as best as possible. This included colour palette generators and contrast checkers for accessibility, the addition of alt attributes where necessary, reduction of image file sizes to help load times, and search engine optimisation.
 
 A colour palette was generated and the chosen colours ran through a contrast checker to ensure a pleasant experience and large degree of accessibility for the site. 
+
+![picture of colour palette](readme-images/colourwheel.PNG)
+![picture of contrast checker](readme-images/contrast.PNG)
+![another picture of contrast checker](readme-images/contrast2.PNG)
 
 The site subject - Padraig Deignan - was kept informed of all design and content choices as they were made as well as contributing much of both. He was sent screenshots and videos of the site in order to provide feedback on site functions and navigation elements. During the development process he requested several amendments which were immediately implemented and reapproved by him.
 
