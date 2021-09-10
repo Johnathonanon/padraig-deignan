@@ -52,7 +52,7 @@ h2 {
 }
 
 #navbar li {
-    float: right;
+    display: inline-block;
     list-style-type: none;
     margin: 10px;
 }
@@ -553,14 +553,14 @@ footer a {
 
     #navbar {
         clear: both;
-        width: 80%;
-        margin: 0 10%;
+        width: 90%;
+        margin: 0 5%;
     }
 
     #navbar li {
         text-align: center;
-        width: 20%;
-        margin: 0;
+        width: 18%;
+        margin: 0 auto;
     }
 
     #social-media-head {

@@ -86,9 +86,11 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 ## Testing
 
 
-The site has been consistently tested throughout its development. Any time a new feature was introduced or style change made, this was tested using chrome developer tools. Any unwanted behaviour was then fixed before moving on.
+The site has been consistently tested throughout its development. Any time a new feature was introduced or style change made, this was tested using chrome developer tools.
 
-All html elements serve their intended purpose with no bugs found at time of submission. All styles work as intended and add to the overall user experience. The site has been stringently tested on a large number of different browsers and screen sizes both using emulators on dev tools as well as physical mobile devices and tablets. 
+All html elements serve their intended purpose at time of submission. All styles work as intended and add to the overall user experience. The site has been stringently tested on a large number of different browsers and screen sizes both using emulators on dev tools as well as physical mobile devices and tablets. 
+
+The footer on the Contact page had white space underneath it. The only way with my current knowledge to resolve this issue was to increase the image size on the contact page in order to eliminate the white space. 
 
 All links, both internal and external, have been checked and confirmed working on a multitude of browsers including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. 
 
@@ -128,40 +130,40 @@ The live link can be found here - https://johnathonanon.github.io/padraig-deigna
 
 http://padraigdeignan.simplesite.com/415329717 
 
-https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
+https://www.youtube.com/watch?v=xMTs8tAapnQ (I used this for the burger menu)
 
-https://dev.to/roccosangellino/how-to-build-a-simple-navbar-with-html-and-css-945
+https://liber.ie/product/protestant-community-in-sligo-1914-49/
 
-https://turbofuture.com/computers/How-to-Create-a-CSS-Stylesheet-with-Notepad#:~:text=The%20external%20style%20sheet%20can,will%20affect%20all%20the%20pages.&text=Any%20text%20editor%20can%20be,Today%20we%20will%20use%20Notepad
+https://liber.ie/product/land-and-people-in-nineteenth-century-sligo/
 
-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_topnav
+https://liber.ie/product/sligo-in-the-eighteenth-century/
+
+https://www.youtube.com/watch?v=4jrTHiWFcAE
+
+https://www.youtube.com/watch?v=O_Xj8Jrenwk
+
+https://code-institute-org.github.io/love-running-2.0/signup.html (Used this code to help with my contact page)
+
+
+
 
 
 
 ### Content
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- 
+- 
+- The icons in the header were taken from [Font Awesome](https://fontawesome.com/)
+- 
+- The photos used for the books were taken from Pagraig Deignans Facebook [with permission and approval] (https://www.facebook.com/padraig.deignan)
+- All content and photos were approved by Padraig Deignan himself. Padraig Deignan supplied the photos used on the website of himself from his personal computer harddrive. 
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photo used on contact page are from this open source (https://unsplash.com/)
+- The color pallette was generated using this source (Adobe Color - https://color.adobe.com/)
+- Contrast Checker was used to help with user experience (WebAim Contrast Checker - https://webaim.org/resources/contrastchecker/
+)
+- Fonts were derived from (Google Fonts - https://fonts.google.com/)
+- 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write a Git Commit Message
-  - Make sure to keep the messages in the imperative mood
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
